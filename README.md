@@ -1,5 +1,6 @@
 # Helio
 
+Documentation : [https://thehuman00.gitbook.io/helio](https://thehuman00.gitbook.io/helio)
 ![](<.gitbook/assets/Capture d’écran 2022-06-24 à 00.20.49.png>) ![](<.gitbook/assets/Capture d’écran 2022-06-24 à 00.11.04.png>) ![](<.gitbook/assets/Capture d’écran 2022-06-24 à 00.09.18.png>)
 
 **HELIO** est un système de gestion de préventif, fondamentalement pensé pour les sections locale de la croix-rouge. Voici une liste des fonctionnalités du système (non-exhaustives) :&#x20;
